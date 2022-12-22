@@ -1,5 +1,5 @@
 version 7 de mon beau fichier
 
-
+copie
 
 c'est ok
